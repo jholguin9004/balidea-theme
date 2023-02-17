@@ -1,0 +1,12 @@
+name: Balidea Custom Theme
+type: theme
+base theme: classy
+version: '1.1'
+description: 'Sample theme for testing Drupal development skills.'
+core_version_requirement: ^8.8 || ^9
+package: 'Balidea'
+project: 'balidea_theme'
+libraries:
+    - balidea_theme/base
+'interface translation project': balidea_theme
+'interface translation server pattern': themes/custom/%project/translations/%project.%language.po
