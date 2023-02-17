@@ -1,0 +1,17 @@
+{
+  "name": "balidea/balidea_theme",
+  "type": "drupal-custom-theme",
+  "version": "1.0",
+  "require": {
+    "drupal/classy": "^1.0"
+  },
+  "authors": [
+    {
+      "name": "Jhonatan Holguín",
+      "homepage": "https://www.linkedin.com/in/jhonatan-holgu%C3%ADn-a2b82171/",
+      "role": "Maintainer"
+    }
+  ],
+  "minimum-stability": "dev",
+  "prefer-stable": true
+}
